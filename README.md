@@ -42,7 +42,7 @@ Para utilizar este projecto é necessário atualizar os parâmetros requesitados
 
 ## 💻 Projeto
 
-Este projecto foi desenvolvivido foi desenvolvido para servir de suporte a uma puseira intelegente que envia sinais de alerta de uma queda de uma paciente,
+Este projecto foi desenvolvivido para servir de suporte a uma puseira intelegente que envia sinais de alerta de uma queda de uma paciente,
 servindo de painelde controlo do sistema.
 
 Este é um projeto desenvolvido entre Março e Junho de 2022.
